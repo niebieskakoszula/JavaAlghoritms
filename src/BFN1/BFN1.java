@@ -1,3 +1,5 @@
+package BFN1;
+
 import java.util.Scanner;
 public class BFN1 {
     public static void main(String[] args) throws java.lang.Exception {
